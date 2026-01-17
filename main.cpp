@@ -25,7 +25,6 @@ int main() {
     // =============================================
     //  Output
     // =============================================
-;
 
     // Print scores using range-based for (modern & clean)
 
