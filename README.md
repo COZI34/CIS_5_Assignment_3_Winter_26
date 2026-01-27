@@ -1,6 +1,10 @@
 # CIS_5 Assignment – Week 3 (Winter 2026)
 A C++ program that analyzes a pre-filled set of 30 student test scores using arrays and loops.
 
+## Video Link
+This is my submission for Assignment 3
+https://youtu.be/izXcSC-an0M
+
 ## What the program does
 1. Uses a fixed-size array containing 30 pre-filled test scores (0–100).
 2. Uses loops to calculate and display several class statistics.
